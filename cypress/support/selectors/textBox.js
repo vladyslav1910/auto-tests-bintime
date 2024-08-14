@@ -5,5 +5,7 @@ const textBox = {
     currentAddressInput: '[id="currentAddress"]',
     permanentAddressInput: '[id="permanentAddress"]',
     submitButton: '[id="submit"]',
+    nameIsDisplayed: '[id="name"]',
+    emailIsDisplayed: '[id="email"]',
     errorMessage: '.error-message'
   };
